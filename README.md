@@ -15,6 +15,7 @@ There are a few things I'd like to do after running out of time.
 5. I like the look of minimal API's for the controllers and would be tempted to refactor and use these as it's fresh code.  
    Again a design decision was made that you might not be looking for this.
 6. I know this isn't going into production, but if it was I would definitely have added CORS by now.
+7. I would normally have added some documentation to my code, if it was a larger project you would add documentation for swagger as well.
 
 Thank you,  
 Ricky Melville
