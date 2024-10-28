@@ -16,6 +16,6 @@ There are a few things I'd like to do after running out of time.
    Again a design decision was made that you might not be looking for this.
 6. I know this isn't going into production, but if it was I would definitely have added CORS by now.
 
-Thank you,
+Thank you,  
 Ricky Melville
 
